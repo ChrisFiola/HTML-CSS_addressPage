@@ -1,4 +1,4 @@
-# HTML-CSS_PageStructure
+# HTML-CSS_addressPage
 Learning html &amp; css with openclassroom, an example of a page structure
 
 To view html page on the browser:
